@@ -136,6 +136,7 @@ export default function Stats() {
                         </tbody>
                     </table>
                 </div>
+            )}
             </>
             )}
         </div>
